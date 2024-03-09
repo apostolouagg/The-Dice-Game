@@ -4,8 +4,7 @@ This is a game made with C#. A dice changes positions randomly within a panel. T
 
 Initially, the user must Log In or Register with their details. After logging in, they are directed to the main menu where their details and the Leaderboard are displayed.
 
-By clicking ### Play
-, the player is directed to the corresponding form and can start the game. They must first select the level, and then the game starts whenever they click the dice.
+By clicking <b>Play</b> , the player is directed to the corresponding form and can start the game. They must first select the level, and then the game starts whenever they click the dice.
 
 In ### Account settings
 , the user can change the Theme of the application, see their personal scores on each level, and change their profile picture.
