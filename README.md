@@ -1,4 +1,4 @@
-#Assignment #1
+#Assignment-1
 
 This is a game made with C#. A die changes positions randomly within a panel. The goal of the game is for the player to collect as many points as possible. Each time the die is clicked, the player receives from 1 to 6 points. The points obtained each time are equal to the number shown on the die at that moment.
 
