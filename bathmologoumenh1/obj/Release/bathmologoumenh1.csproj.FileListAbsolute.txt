@@ -1,0 +1,13 @@
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\bin\Release\bathmologoumenh1.exe.config
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\bin\Release\bathmologoumenh1.exe
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\bin\Release\bathmologoumenh1.pdb
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.csprojAssemblyReference.cache
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.Form1.resources
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.Form2.resources
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.Form3.resources
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.Form4.resources
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.Properties.Resources.resources
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.csproj.GenerateResource.cache
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.csproj.CoreCompileInputs.cache
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.exe
+C:\Users\aapos\Έγγραφα\UNIPI\Εργασίες C#\bathmologoumenh1\bathmologoumenh1\obj\Release\bathmologoumenh1.pdb
