@@ -9,3 +9,5 @@ By clicking <b>Play</b> , the player is directed to the corresponding form and c
 In <b>Account settings</b>, the user can change the Theme of the application, see their personal scores on each level, and change their profile picture.
 
 In the <b>Leaderboard</b>, the order of appearance of the players is determined by their score. Obviously, the player with the highest score is first, the next highest is second, and so on. The user can view the Leaderboard for each level using the <b>Easy</b>, <b>Medium</b>, or <b>Hard</b> buttons.
+
+All data is stored in txt files.
